@@ -1,0 +1,15 @@
+{
+    "amazon": {
+        "AL_batch_size": 1000,
+        "total_budget": 8000,
+        "initial_labeled_num": 1000,
+        "epochs": 300,
+        "learning_rate": 0.0001,
+        "weight_decay": 0.05,
+        "patience": 10,
+        "NN_batch_size": 128,
+        "optimizer": "Adam",
+        "lr_decay": false,
+        "comment": ""
+    }
+}
