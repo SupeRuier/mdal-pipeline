@@ -8,7 +8,7 @@ This code is for [*Multi-Domain Active Learning: Literature Review and Comparati
 
 ## Pipeline
 
-![The pipeline](.mdal-pipeline.png)
+![The pipeline](./mdal-pipeline.png)
 
 ## Implemented Models and Strategies
 
